@@ -5,7 +5,7 @@
 - Ensure your PostgreSQL server is running.
 - Create a database and user with the necessary permissions.
 - Update the `URL`, `USER`, and `PASSWORD` constants in `StudentManagementApp.java` with your database details.
-- Create the `student` table and populate it using A3DB.sql in /src
+- Create the `students` table and populate it using A3DB.sql in /src
 
 ### 2. Compile the Application
 
